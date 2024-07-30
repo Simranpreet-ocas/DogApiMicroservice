@@ -1,0 +1,118 @@
+## Ignore Visual Studio temporary files, build results, and
+## common output directories
+##
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Mono auto generated files
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Enable "Build with IntelliSense" for multiple platforms
+[Oo]ut/
+ipch/
+*.ipch
+*.aps
+*.ncb
+*.sdf
+*.vcxproj*
+*.vcxproj.*.user
+*.opendb
+
+# Test results
+[Tt]est[Rr]esult*/**
+*.trx
+*.coverage
+*.testlog
+*.buildlog
+TestResults/
+*.publishsettings
+*.publishsettings.*
+
+# Enable use of "Add new from Template" menu option for Windows projects
+*.iobj
+*.idb
+
+# Build results
+*.ilk
+*.pdb
+*.obj
+*.tlb
+*.tlh
+*.bak
+*.old
+*.log
+*.vspscc
+*.vssscc
+
+# CMake-generated files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+CTestTestfile.cmake
+cmake_install.cmake
+install_manifest.txt
+
+# Node.js dependencies
+node_modules/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Project-specific
+*.vcxproj.*.user
+
+# Code coverage analysis results
+*.opencover.xml
+*.coverage.xml
+
+# Subfolders
+Backup*/
+*.pfx
+*.snk
+
+# Publish outputs
+*.Publish.xml
+*.azurePubxml
+*.azurePubxml.user
+*.ldf
+*.mdf
+
+# LightSwitch generated files
+GeneratedArtifacts/
+_Pvt_Extensions/
+ModelManifest.xml
+
+# SQL Server files
+*.dbmdl
+*.dbml
+
+# Entity Framework
+*.edmx
+*.jfm
